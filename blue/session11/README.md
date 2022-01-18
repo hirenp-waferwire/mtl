@@ -6,7 +6,7 @@
      height = "175" width = "650">
 
 1. **session11.md**
-  - (part 1): Session 11 fidelity checklist components:
+  - (part 1): Session X1 fidelity checklist components:
   - (part 2): List of links for *MTL* resources used in that session
     - mtl.how/live
     - mtl.how/sim

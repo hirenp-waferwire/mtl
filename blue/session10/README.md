@@ -8,7 +8,7 @@
 ### session 10. *Modeling to Learn* how to use **systems thinking**
 
 1. **session10.md**
-  - (part 1): Session 10 fidelity checklist components:
+  - (part 1): Session X0 fidelity checklist components:
   - (part 2): List of links for *MTL* resources use in session 10
     - mtl.how/live
     - mtl.how/sim

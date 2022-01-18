@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 12 - Learner See"
+title: "MTL Session X2 - Learner See"
 author: "Team PSD"
 date: "March 2020"
 release: "MTL 2.0"
@@ -15,7 +15,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s12_team_plan_title.png"
 height = "175" width = "420">](#DontLink)   
 **Note**: If you are a self-directed learner, then some of the details in the guides may not apply to you. These guides were developed for facilitated *Modeling to Learn* Live team meetings.
-# MTL Live Session 12
+# MTL Live Session X2
 
 # Today we're modeling to learn how to turn team learning into a team plan.
 

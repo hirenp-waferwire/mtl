@@ -6,7 +6,7 @@
      height = "175" width = "650">
 
 1. **session12.md**
-    - (part 1): Session 12 fidelity checklist components:
+    - (part 1): Session X2 fidelity checklist components:
     - (part 2): List of links for *MTL* resources used in that session
       - mtl.how/live
     - (part 3): .bibtex file for references; link to public Zotero library for *MTL*

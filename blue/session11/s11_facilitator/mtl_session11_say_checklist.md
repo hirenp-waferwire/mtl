@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 11 - Faciliator Say"
+title: "MTL Session X1 - Faciliator Say"
 author: "Team PSD"
 date: "Feb 14, 2020 Edited by DK | RH March 2 2020"
 output: 
@@ -15,7 +15,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s11_team_decisions_title.png"
      height = "175" width = "420">](#DontLlink)  
 
-### Session 11 Say Checklist
+### Session X1 Say Checklist
 
 **Today we're modeling to learn how to make _future_ team decisions.**
 
@@ -32,7 +32,7 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:05-00:10** 
 - [ ] <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "45" width = "45"> 
 
-**Learning Objectives for Session 11**
+**Learning Objectives for Session X1**
 
 1.	Describe what your team has prioritized as decisions to implement in your clinic. 
 2.	Test your team’s plan against your individual and shared, team vision.

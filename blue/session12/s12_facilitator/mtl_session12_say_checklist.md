@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 12 - Faciliator Say Checklist"
+title: "MTL Session X2 - Faciliator Say Checklist"
 author: "Team PSD"
 date: "Feb 14, 2020 Edited by DK | RH March 2 2020"
 output: 
@@ -14,7 +14,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s12_team_plan_title.png"
 height = "175" width = "420">](#DontLink)   
 
-### Session 12 Say Checklist
+### Session X2 Say Checklist
 
 **Today we're modeling to learn how to turn team learning into a team plan.**
 
@@ -31,7 +31,7 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/> _____________ **Time 00:05-00:10** 
 - [ ] <img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "45" width = "45"> 
 
-**Learning Objectives for Session 12**
+**Learning Objectives for Session X2**
 
 1. Describe what your team has learned throughout the MTL 12-session program.
 

@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 12 - Learner See"
+title: "MTL Session X2 - Learner See"
 author: "Team PSD"
 date: "November 2018"
 release: "MTL 1.7"
@@ -16,7 +16,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/logos/mtl_live_sq_sm.png"
      height = "175" width = "290">](#.)   
 
-# *MTL* Live Session 12
+# *MTL* Live Session X2
 
 # Today we're modeling to learn how to turn team learning into a team plan.
 

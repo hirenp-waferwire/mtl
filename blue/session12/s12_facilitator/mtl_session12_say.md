@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 12 - Facilitator Say"
+title: "MTL Session X2 - Facilitator Say"
 author: "Team PSD"
 date: "March 2020"
 release: "MTL 2.0"
@@ -16,7 +16,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s12_team_plan_title.png"
 height = "175" width = "420">](#DontLink)
 
-# MTL Live Session 12
+# MTL Live Session X2
 
 ## Today we're modeling to learn how to turn team learning into a team plan.
 

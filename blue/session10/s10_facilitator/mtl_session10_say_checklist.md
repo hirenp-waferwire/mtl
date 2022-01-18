@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 10 - Facilitator Say Checklist"
+title: "MTL Session X0 - Facilitator Say Checklist"
 author: "Team PSD"
 date: "Edited 10/7/2019 by LZ | RH Jan 24 2020 | Edited by Anthony 5 February 2020, Edited by DK 14 Feb 2020 | RH Feb 18 2020 | RH March 2 2020"
 release: "MTL 1.8"
@@ -16,7 +16,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s10_systems_thinking_title.png"
      height = "175" width = "420">](#DontLink)  
      
-### Session 10 Say Checklist
+### Session X0 Say Checklist
 
 **Today we're modeling to learn how to use systems thinking.**
 
@@ -32,7 +32,7 @@ Hello! I'm __________ and I'm __________ [Co-facilitators introduce themselves].
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/timestamp.png" height = "40" width = "40" style ="display: inline-block"/>](#DontClick) _____________ **Time 00:05-00:10** 
 
 - [ ] [<img src = "https://github.com/lzim/teampsd/blob/master/resources/icons/learning_objectives.png" height = "45" width = "45">](#DontClick) 
-**Learning Objectives for Session 10**
+**Learning Objectives for Session X0**
 
 1. Describe the decisions you experimented with and how they are intertwined with other decisions and clinic outcomes over time. 
 

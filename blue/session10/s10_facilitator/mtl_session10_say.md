@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 10 - Facilitator Say"
+title: "MTL Session X0 - Facilitator Say"
 author: "Team PSD"
 date: "March 2020"
 release: "MTL 2.0"
@@ -16,7 +16,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s10_systems_thinking_title.png"
      height = "175" width = "420">](#DontLink)
 
-# MTL Live Session 10
+# MTL Live Session X0
 
 ## Today we're modeling to learn how to use systems thinking.
 

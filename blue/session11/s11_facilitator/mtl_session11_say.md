@@ -1,5 +1,5 @@
 ---
-title: "MTL Session 11 - Facilitator Say"
+title: "MTL Session X1 - Facilitator Say"
 author: "Team PSD"
 date: "March 2020 "
 release: "MTL 2.0"
@@ -16,7 +16,7 @@ output:
 [<img src = "https://github.com/lzim/teampsd/blob/master/resources/title_slides/mtl_s11_team_decisions_title.png"
      height = "175" width = "420">](#DontLink)
 
-# MTL Live Session 11
+# MTL Live Session X1
 
 ## Today we're modeling to learn how to make _future_ team decisions.
 
@@ -50,7 +50,7 @@ Hello! I'm \________________ (facilitator's name) and I'm \_______________ (co-f
 
 ### 1. What shared vision did the team decide on in session 1?
 
-- Throughout *Modeling to Learn*, we've made lots of team decisions. Let's review them and see what they mean for future decisions. What shared vision for *Modeling to Learn* did the team decide on in Session 1? We've tied our experiments and decisions throughout *MTL* to that vision.
+- Throughout *Modeling to Learn*, we've made lots of team decisions. Let's review them and see what they mean for future decisions. What shared vision for *Modeling to Learn* did the team decide on in Session X? We've tied our experiments and decisions throughout *MTL* to that vision.
 
 ### 2. What team need and questions did we identify?
 

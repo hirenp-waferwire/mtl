@@ -87,7 +87,7 @@ output:
 
 - [ ] Click Play. (For the Care Coordination and Medication Management (CC & MM) modules, after you click Play, you need to select your Learning Mode.)
 Refer to the Care Coordination (CCParams) or Medication Management (MMParams) tab of the Team Data Table at mtl.how/data, for data regarding the team's New Patient Start Rates and Return-to-Clinic Intervals.
-- [ ] Note: Once you pick a Learning Mode to prioritize the New Patient Start Rate or the Existing Patients Return-to-Clinic Visit Interval, this will be the setting your team will experiment with through Session 12 for the rest of the Modeling to Learn program.
+- [ ] Note: Once you pick a Learning Mode to prioritize the New Patient Start Rate or the Existing Patients Return-to-Clinic Visit Interval, this will be the setting your team will experiment with through Session X2 for the rest of the Modeling to Learn program.
 
 - [ ] Existing Patient Return-to-Clinic Visit Interval: Choose this learning mode to prioritize the Existing Patients Return-to-Clinic Visit Interval (RVI) estimated from team data, and only start new patients in remaining open slots after the existing patient RVI, appointment supply, and missed appointments are all taken into account.
 - [ ] New Patient Start Rate: Choose this learning mode to prioritize the New Patient Start Rate estimated from team data, and only see existing patients in remaining open slots after the new patient start rate, appointment supply, and missed appointments are all taken into account.
